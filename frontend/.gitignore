@@ -1,0 +1,20 @@
+# Angular / Frontend
+node_modules/
+dist/
+.angular/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs & testing
+*.log
+coverage/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/

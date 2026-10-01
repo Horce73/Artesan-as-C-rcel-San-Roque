@@ -1,0 +1,20 @@
+# NestJS / Backend
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs & testing
+*.log
+coverage/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
